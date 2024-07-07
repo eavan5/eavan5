@@ -7,9 +7,6 @@ Hope the world gets better and better 🐈
 
 
 
-[![LeetCode user wumao](https://leetcode-badge.haozibi.dev/v1cn/solved/wumao.svg?logo=leetcode)](https://leetcode-cn.com/u/wumao/)  
-
-
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,vite,webpack,nodejs,vue,react,nestjs,vscode,git,github,gitlab,linux,vim,nginx,docker,jenkins,mongodb,redis,raspberrypi,vercel,md,wordpress,twitter,ps,ae,pr,)](https://www.wumao.org)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=65B687&vCenter=true&multiline=true&height=60&lines=What+hurts+more%2C;the+pain+of+hard+work+or+the+pain+of+regret+%3F)](https://git.io/typing-svg)  
 
